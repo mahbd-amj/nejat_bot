@@ -1,11 +1,10 @@
 streamlit
-langchain==0.1.0
+langchain
 langchain-community
-langchain-core
 langchain-groq
 duckduckgo-search
 faiss-cpu
 pypdf
 sentence-transformers
 huggingface-hub
-langchain-text-splitters
+chromadb
